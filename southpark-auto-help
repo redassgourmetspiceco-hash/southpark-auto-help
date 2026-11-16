@@ -1,0 +1,4 @@
+cd /home/workdir/artifacts/southpark-auto-help
+
+git remote add origin https://github.com/redassgourmetspiceco-hash/southpark-auto-help.git
+git push -u origin main
